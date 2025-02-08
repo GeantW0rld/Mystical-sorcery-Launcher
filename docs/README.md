@@ -15,7 +15,7 @@
         <img src="https://invidget.switchblade.xyz/e9q7Yr2cuQ">
     </a>
 </p>
-
+ 
 ---
 ### **<ins><p align="center">Conditions d'utilisation:</p>**
 - Pour utiliser le code vous devez faire un fork du projet.
