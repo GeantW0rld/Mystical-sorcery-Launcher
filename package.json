@@ -1,15 +1,15 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "2.0.7",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "name": "Mystical-sorcery-Launcher",
+    "preductname": "Mystical sorcery Launcher",
+    "version": "1.0.0",
+    "description": "Launcher Mincraft pour le serveur Mystical sorcery",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
-        "email": "contact@luuxis.fr",
-        "url": "https://github.com/luuxis"
+        "name": "SkyBeWorld",
+        "email": "contact@skybeworld.com",
+        "url": "https://github.com/GeantW0rld"
     },
-    "url": "http://launcher.luuxis.fr",
+    "url": "https://files.skybeworld.com/launcher",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
