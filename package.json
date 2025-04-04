@@ -1,7 +1,7 @@
 {
     "name": "Mystical-sorcery-Launcher",
     "preductname": "Mystical sorcery Launcher",
-    "version": "3.1.0",
+    "version": "3.1.1",
     "description": "Launcher Mincraft pour le serveur Mystical sorcery",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "contact@skybeworld.com",
         "url": "https://github.com/GeantW0rld"
     },
-    "url": "https://files.skybeworld.com/launcher",
+    "url": "https://files.geantworld.eu/launcher",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
