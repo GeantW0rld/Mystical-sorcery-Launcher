@@ -1,7 +1,7 @@
 {
     "name": "Mystical-sorcery-Launcher",
     "preductname": "Mystical sorcery Launcher",
-    "version": "3.2.3",
+    "version": "3.3.0",
     "description": "Launcher Mincraft pour le serveur Mystical sorcery",
     "main": "src/app.js",
     "author": {
