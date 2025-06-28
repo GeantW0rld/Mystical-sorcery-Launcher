@@ -1,7 +1,7 @@
 {
     "name": "Mystical-sorcery-Launcher",
     "preductname": "Mystical sorcery Launcher",
-    "version": "3.2.2",
+    "version": "3.2.3",
     "description": "Launcher Mincraft pour le serveur Mystical sorcery",
     "main": "src/app.js",
     "author": {
@@ -30,7 +30,7 @@
     },
     "devDependencies": {
         "cross-env": "^7.0.3",
-        "electron": "^36.3.2",
+        "electron": "^30.5.1",
         "electron-builder": "^26.0.12",
         "javascript-obfuscator": "^4.1.0",
         "jimp": "^0.22.12",
